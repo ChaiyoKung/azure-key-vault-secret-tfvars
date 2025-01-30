@@ -1,5 +1,7 @@
 # Azure Key Vault Secret tfvars
 
+Migrate Terraform secret variables to Azure Key Vault secrets
+
 ## Getting Started
 
 Login to Azure.
