@@ -16,12 +16,6 @@ terraform init
 
 ## Development
 
-Create a `terraform.tfvars` file.
-
-```bash
-cp terraform.tfvars.example terraform.tfvars
-```
-
 Create a plan.
 
 ```bash
